@@ -62,4 +62,4 @@ async def send_text(bot, m: Message):
         await msg.delete()
 
 @Client.on_message(filters.private & filters.command('help'))
-async def send_text("**🤭 Sorry Monu**"))
+await m.reply_text("**🤭 Sorry Monu**")
