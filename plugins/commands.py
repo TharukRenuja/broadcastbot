@@ -60,3 +60,6 @@ async def send_text(bot, m: Message):
         msg = await m.reply_text(Presets.REPLY_ERROR, m.message_id)
         await asyncio.sleep(8)
         await msg.delete()
+
+@Client.on_message(filters.private & filters.command('help'))
+async def send_text("**🤭 Sorry Monu**")
