@@ -1,4 +1,4 @@
-# [Broadcast Bot](https://t.me/codexbotz)
+# [Broadcast Bot](https://t.me/SLBotsOfficial)
 
 A Telegram bot to send messages and medias to the subscribers directly through bot.
 
@@ -9,7 +9,7 @@ A Telegram bot to send messages and medias to the subscribers directly through b
 
 ## Deploy to Heroku:
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/ERICDANIYEL/broadcastbot">
+  <a href="https://heroku.com/deploy?template=https://github.com/TharukRenuja/broadcastbot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -30,7 +30,7 @@ users - view subscribers count
 ```
 
 
-#### [support ](https://t.me/codexbotzsupport)
+#### [support ](https://t.me/SLBotsOfficial)
 
 
 ## credit:
